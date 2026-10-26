@@ -10,6 +10,7 @@
     <profiles>
         <profile>
             <id>web-deploy</id>
+            <packaging>war</packaging>
             <build>
                 <plugins>
                     <plugin>
